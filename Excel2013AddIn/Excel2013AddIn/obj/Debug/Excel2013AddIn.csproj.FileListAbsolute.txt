@@ -1,0 +1,11 @@
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\bin\Debug\Excel2013AddIn.dll
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\bin\Debug\Excel2013AddIn.pdb
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\bin\Debug\Excel2013AddIn.dll.manifest
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\bin\Debug\Excel2013AddIn.vsto
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\obj\Debug\Excel2013AddIn.MyRibbon.resources
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\obj\Debug\Excel2013AddIn.Properties.Resources.resources
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\obj\Debug\Excel2013AddIn.csproj.GenerateResource.Cache
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\obj\Debug\Excel2013AddIn.dll
+E:\C#Projects\ApolloExcelSamples\Excel2013AddIn\Excel2013AddIn\obj\Debug\Excel2013AddIn.pdb

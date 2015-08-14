@@ -1,0 +1,33 @@
+<DnaLibrary Name="VBAAccessedCodeNoLibraryintelli" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="VBAAccessedCodeNoLibraryintelli.dll"  ComServer="true" />
+  <Image Name="M" Path="M.png" Pack="true" />
+  <CustomUI>
+    <customUI xmlns='http://schemas.microsoft.com/office/2009/07/customui' loadImage='LoadImage'>
+      <ribbon>
+        <tabs>
+          <tab id='CustomTab' label='My 2010 Tab'>
+            <group id='SampleGroup' label='My Sample Group'>
+              <button id='Button1' label='My Second Button' image='M' size='normal' onAction='ReformatSelection' tag='ReformatSelection='/>
+            </group >
+          </tab>
+        </tabs>
+      </ribbon>
+    </customUI>
+  </CustomUI>
+  <!-- 
+       The RuntimeVersion attribute above allows two settings:
+       * RuntimeVersion="v2.0" - for .NET 2.0, 3.0 and 3.5
+       * RuntimeVersion="v4.0" - for .NET 4 and 4.5
+
+       Additional referenced assemblies can be specified by adding 'Reference' tags. 
+       These libraries will not be examined and registered with Excel as add-in libraries, 
+       but will be packed into the -packed.xll file and loaded at runtime as needed.
+       For example:
+       
+       <Reference Path="Another.Library.dll" Pack="true" />
+  
+       Excel-DNA also allows the xml for ribbon UI extensions to be specified in the .dna file.
+       See the main Excel-DNA site at http://excel-dna.net for downloads of the full distribution.
+  -->
+
+</DnaLibrary>

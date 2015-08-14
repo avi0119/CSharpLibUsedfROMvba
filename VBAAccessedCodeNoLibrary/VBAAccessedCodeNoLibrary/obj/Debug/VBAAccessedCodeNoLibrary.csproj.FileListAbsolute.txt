@@ -1,0 +1,5 @@
+E:\C#Projects\ApolloExcelSamples\VBAAccessedCodeNoLibrary\VBAAccessedCodeNoLibrary\bin\Debug\VBAAccessedCodeNoLibrary.dll
+E:\C#Projects\ApolloExcelSamples\VBAAccessedCodeNoLibrary\VBAAccessedCodeNoLibrary\bin\Debug\VBAAccessedCodeNoLibrary.pdb
+E:\C#Projects\ApolloExcelSamples\VBAAccessedCodeNoLibrary\VBAAccessedCodeNoLibrary\obj\Debug\VBAAccessedCodeNoLibrary.dll
+E:\C#Projects\ApolloExcelSamples\VBAAccessedCodeNoLibrary\VBAAccessedCodeNoLibrary\obj\Debug\VBAAccessedCodeNoLibrary.pdb
+E:\C#Projects\ApolloExcelSamples\VBAAccessedCodeNoLibrary\VBAAccessedCodeNoLibrary\bin\Debug\VBAAccessedCodeNoLibrary.dna
